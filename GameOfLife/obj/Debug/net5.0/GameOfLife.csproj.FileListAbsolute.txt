@@ -1,0 +1,15 @@
+E:\RepoGit\GameOfLife\GameOfLife\bin\Debug\net5.0\GameOfLife.exe
+E:\RepoGit\GameOfLife\GameOfLife\bin\Debug\net5.0\GameOfLife.deps.json
+E:\RepoGit\GameOfLife\GameOfLife\bin\Debug\net5.0\GameOfLife.runtimeconfig.json
+E:\RepoGit\GameOfLife\GameOfLife\bin\Debug\net5.0\GameOfLife.runtimeconfig.dev.json
+E:\RepoGit\GameOfLife\GameOfLife\bin\Debug\net5.0\GameOfLife.dll
+E:\RepoGit\GameOfLife\GameOfLife\bin\Debug\net5.0\ref\GameOfLife.dll
+E:\RepoGit\GameOfLife\GameOfLife\bin\Debug\net5.0\GameOfLife.pdb
+E:\RepoGit\GameOfLife\GameOfLife\obj\Debug\net5.0\GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+E:\RepoGit\GameOfLife\GameOfLife\obj\Debug\net5.0\GameOfLife.AssemblyInfoInputs.cache
+E:\RepoGit\GameOfLife\GameOfLife\obj\Debug\net5.0\GameOfLife.AssemblyInfo.cs
+E:\RepoGit\GameOfLife\GameOfLife\obj\Debug\net5.0\GameOfLife.csproj.CoreCompileInputs.cache
+E:\RepoGit\GameOfLife\GameOfLife\obj\Debug\net5.0\GameOfLife.dll
+E:\RepoGit\GameOfLife\GameOfLife\obj\Debug\net5.0\ref\GameOfLife.dll
+E:\RepoGit\GameOfLife\GameOfLife\obj\Debug\net5.0\GameOfLife.pdb
+E:\RepoGit\GameOfLife\GameOfLife\obj\Debug\net5.0\GameOfLife.genruntimeconfig.cache
